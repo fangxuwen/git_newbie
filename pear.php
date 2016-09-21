@@ -1,3 +1,3 @@
 <?php
 $pear = 'silver';
-print $pear;
+echo $pear;
