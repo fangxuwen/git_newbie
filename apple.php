@@ -1,3 +1,3 @@
 <?php
 $apple = 'gold';
-echo $apple;
+echo $apple."\n";
