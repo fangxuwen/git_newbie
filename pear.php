@@ -1,3 +1,4 @@
 <?php
 $pear = 'silver';
-echo $pear;
+print $pear."\n";
+echo "http://www.qq.com\n";
